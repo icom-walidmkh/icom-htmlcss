@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html,body,h1,h2,h3,h4,h5,h6,p,blockquote,ul,ol,li,dl,dt,dd,form,fieldset,input,textarea,label,u
+{
+	margin:0;
+	padding:0;
+	border:0px;
+	list-style:none;
+	font-weight:normal;
+	font-style:normal;
+	text-align:left;
+	
+
+	
+}
+	body {background:#FFF;}
+	a,
+	a:hover {text-decoration:none}	
+	
+    #wrapper{
+	width:1200px;
+	margin:0px auto;	
+   }
+     #nav ul {
+	float:right	
+  }
+  #nav ul li{
+	float:left;
+	margin:0px 5px;	
+   }
+   
+   
+   #slider{
+		margin:0px auto 0px auto;
+		text-align:center;
+		width:100%;
+   }
+.grey {
+	background-color:#CCC;
+	 }
+	 .grey2 {
+	background-color:#E6E6E6;}
+	.grey3 {
+	background-color:#FC3;}
+	/*.greyb {background-color:#CCCCCC;}*/
+	.btn{
+
+	   width:8em;
+	  height:2em}
+	
+	.col { width:33%;
+	float:left;
+	margin:0px 2px;	
+}
+
+		
+#button ul li{
+		text-align:center;
+		}
+		
+
+	
+	/*
+	#col1 { width:33%;
+	float:left;
+	}
+	#col2 { width:33%;
+	float:left;
+	}
+	#col3 { width:33%;
+	float:right;}
+	*/
+	
+	
