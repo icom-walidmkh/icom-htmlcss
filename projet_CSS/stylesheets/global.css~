@@ -1,0 +1,107 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html,body,h1,h2,h3,h4,h5,h6,p,blockquote,ul,ol,li,dl,dt,dd,form,fieldset,input,textarea,label,u
+{
+    margin:0;
+    padding:0;
+    border:0px;
+    list-style:none;
+    font-weight:normal;
+    font-style:normal;
+    text-align:left;
+}
+body {background:#FFF;}
+
+#header{
+    height: 70px;
+    padding: 5px 0 5px 0;
+    border:1px solid #ffcc00;
+}
+
+#logo{
+    float: left;
+  
+}
+#logo img{
+ 
+    width:100%;
+}
+
+#nav{
+    float: right;
+    padding: 25px;
+}
+#nav ul {
+    float:right	
+}
+#nav ul li{
+    float:left;
+    margin:0px 5px;	
+}
+
+a,
+a:hover {text-decoration:none}	
+
+#wrapper{
+    width:1200px;
+    margin:0px auto;	
+}
+
+
+.slid{
+    width: 100%;
+    position: relative;
+}
+.grey {
+    background-color:#CCC;
+}
+.grey2 {
+    background-color:#E6E6E6;}
+.grey3 {
+    background-color: #999;}
+/*butt.greyb {background-color:#CCCCCC;}*/
+#btn img {
+
+   width:100%;
+   text-align:center;
+
+/*.col { width:33%;
+       float:left;
+}*/
+
+
+#button ul li{
+    text-align:center;
+    
+}
+#twt { background-color: #F93;
+       text-align:center;
+
+}
+
+
+.clearfix:before,
+.clearfix:after{
+    clear:both;
+    display:table;
+    content:" ";
+    zoom:1;
+    overflow:auto;	
+}
+#col12{
+    background-color: red;
+}
+
+footer{
+    margin-top: 20px;
+}
+#footer-top{
+    background-color: blanchedalmond;
+    height: 30px;
+}
+#footer-bottom{
+    background-color: black;
+   padding: 10px 0 10 0;
+    color: #fff;
+}

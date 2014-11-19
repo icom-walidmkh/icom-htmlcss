@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mon projet</title>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="stylesheets/global.css"/>
+     
+        <link rel="stylesheet" type="text/css" href="mediaqueries.css"/> 
+	</head>
+
+	<body>
+		 <div id="wrapper">
+          <div id="header" class="resp-section">
+           <div class="resp-grid">             
+                                 <div id="logo" class="pc-4 tab-12 mob-12">
+                                 <img src="pioneer.png">
+                                 </div>
+                                 <div id="nav"  class="mob-12 tab-8 pc-8">
+                                     <ul>
+                                         <li>
+                                         <a href="www.google.fr" title="title1">
+                                           HOME
+                                         
+                                         </a>
+                                        </li>
+                                    
+                                        <li>
+                                         <a href="www.google.fr" title="title2">
+                                         ABOUT US
+                                         
+                                         </a>
+                                       </li>
+                                      
+                                        <li>
+                                         <a href="www.google.fr" title="title3">
+                                         REFERENCES
+                                         
+                                         </a>
+                                       </li>
+                                    
+                                        <li>
+                                         <a href="www.google.fr"title="title4">
+                                         OUR TEAM
+                                         
+                                         </a>
+                                       </li>
+                                     
+                                        <li>
+                                         <a href="www.google.fr"title="title5">
+                                         NEWS
+                                         
+                                         </a>
+                                       </li>
+                                     
+                                        <li>
+                                         <a href="www.google.fr"title="title6">
+                                         COTACT US                     
+                                         </a>
+                                       </li>
+                                   </ul>
+                       
+                             </div>
+         <!-- fin div resp-grid --></div>  
+        </div>
+           
+           
+           
+           </br></br>
+             
+             
+          <div id="content">
+           
+             <div id="slider" class="pc-12 tab-12 mob-12">
+             <!-- slider power -->
+             <img class="slid" src="avian-plane.jpg" alt="Mon slider" />
+             </div></br>
+             <div id="container" class="clearfix">
+             <!--  begin my 3 cols -->
+                    <div id="col1" class="grey col pc-4 tab-4 mob-12">
+                             <!-- col1 -->
+                             <!-- bloc 1 --> 
+                            <div id="bloc1">
+                                  <h2>Bloc1</h2></br>
+                                  <h3>playstation4</h3></br>
+                                  <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                  <div class="tx_paragraphe"><p>populum Romanum invasisse quam iuste. </p></div>   
+    
+						   </div>
+  						    <!-- bloc 1 -->   
+                            
+                             <!-- bloc 2 --> 
+                            <div id="bloc2" >
+                                  <h2>Bloc 2</h2></br>
+                                  <h3>Metal Gear Solid</h3></br>
+                                  <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                  <div class="tx_paragraphe"><p>Diversa eorum aliquando aut per.</p></div>   
+    
+						   </div>
+  						    <!-- bloc 2 -->
+                            <!-- bloc 3 --> 
+                            <div id="bloc 3">
+                                  <h2>Bloc 3</h2></br>
+                                  <h3>Pro evolution soccer</h3></br>
+                                  <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                  <div class="tx_paragraphe"><p>Verbis non et homines si.</p></div>   
+    
+						   </div>
+  						    <!-- bloc 3 -->                    
+                    </div>
+    
+                  <!-- fin col1 -->
+                    <div id="col2" class="grey2 col pc-4 tab-4 mob-12 ">
+                             <!-- col2 -->
+                             <!-- bloc 1 --> 
+                            <div id="bloc1">
+                                  <h2>Bloc1</h2></br>
+                                  <h3>playstation4</h3></br>
+                                  <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                  <div class="tx_paragraphe"><p>populum Romanum invasisse quam iuste. </p></div>   
+    
+						   </div></br>
+  						    <!-- bloc 1 -->   
+                            
+                             <!-- bloc 2 --> 
+                            <div id="bloc2">
+                                  <h2>Bloc 2</h2></br>
+                                  <h3>Metal Gear Solid</h3></br>
+                                  <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                  <div class="tx_paragraphe"><p>Diversa eorum aliquando aut per.</p></div>   
+    
+						   </div>
+  						    <!-- bloc 2 -->
+                            <!-- bloc 3 --> 
+                            <div id="bloc 3">
+                                  <h2>Bloc 3</h2></br>
+                                  <h3>Pro evolution soccer</h3></br>
+                                  <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                  <div class="tx_paragraphe"><p>Verbis non et homines si.</p></div>   
+    
+						   </div>
+  						    <!-- bloc 3 -->                    
+   					 </div>
+                    <!-- fin col2 -->
+                    
+            <div id="col3" class="grey3 col pc-4 tab-4 mob-12">
+                             <!-- col3 -->
+                             <!-- bloc 1 --> 
+                            <div class="greyb"id="button">
+                                <ul>
+                                <li>
+                                    <a href="#">
+                                      <img class="btn" src="button.jpg">
+                                  </a>
+                                  </li><li>
+                                    <a href="#">
+                                      <img class="btn" src="button.jpg">
+                                    </a>
+                                    </li><li>
+                                    <a href="#">
+                                      <img class="btn" src="button.jpg">
+                                     </a>
+                                    </li>
+                                    
+                                    
+                              </ul> 
+                               
+                                 
+                                     
+                            </div> 
+
+  						    <!-- fin bloc 1 --> 
+                            <!-- bloc2 /begin --> 
+              <div class="tweet" id="twt">
+                             
+                             <h1> Tweeter </h1>
+                             
+                             
+                             
+                             <div>
+                                              
+              </div>
+                    <!-- fin col3 -->
+             </div> 
+           </div> 
+          
+           </div> <!-- container end -->
+             <br> 
+             <footer class="clearfix">  
+            <div id="footer-top">
+                <div class="wrapper">
+                    <h1>footer top</h1>
+                </div>
+            </div>
+            <div id="footer-bottom">
+                <div class="wrapper">
+                    <h1>footer bottom</h1>
+                </div>
+            </div>
+        </footer>
+  </div> 
+     </div>       
+	</body>
+</html>
