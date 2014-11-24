@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Mon projet</title>
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" type="text/css" href="stylesheets/global.css"/>
+        <link rel="stylesheet" type="text/css" href="stylesheets/mediaqueries.css"/> 
+        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+	</head>
+
+	<body>
+		 <div id="wrapper">
+          <div id="header" class="resp-section">
+           <div class="resp-grid">             
+                                 <div id="logo" class="pc-4 tab-12 mob-12">
+                                 <img src="images/pioneer.png">
+                                 </div>
+                                 <div id="nav"  class="mob-12 tab-8 pc-8">
+                                      <ul>
+                                          <li><a href="#" title="title1">HOME </a></li>
+                                          <li><a href="#" title="title2">ABOUT US</a></li>
+                                          <li><a href="#" title="title3">REFERENCES</a></li>
+                                          <li><a href="#"title="title4">OUR TEAM</a></li>
+                                          <li><a href="#"title="title5">NEWS</a></li>
+                                          <li><a href="#"title="title6">COTACT US</a></li>
+                                          
+                                      </ul>
+                    </div> 
+         <!-- fin div resp-grid --></div>  
+        </div>
+           
+           
+           
+         
+             
+             
+          <div id="content">
+           
+             <div id="slider" class="pc-12 tab-12 mob-12">
+             <!-- slider power -->
+             <img class="slid" src="images/avian-plane.jpg" alt="Mon slider" />
+             <div id="sousSlider"></div>
+             </div>
+             <div id="container" class="clearfix">
+             <!--  begin my 3 cols -->
+                     <div id="col1" class="grey col pc-4 tab-4 mob-12">
+                             <!-- col1 -->
+                             <!-- bloc 1 --> 
+                            <div id="bloc1">
+                                  <h2>Bloc1</h2>
+                                  <div class="sousBloc">
+                                      <h3>playstation4</h3>
+                                      <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                      <div class="tx_paragraphe"><p>populum Romanum invasisse quam iuste. </p></div>   
+                                  </div>
+    
+						   </div>
+  						    <!-- bloc 1 -->   
+                            
+                             <!-- bloc 2 --> 
+                            <div id="bloc2" >
+                                  <h2>Bloc 2</h2>
+                                   <div class="sousBloc">
+                                      <h3>Metal Gear Solid</h3>
+                                      <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                      <div class="tx_paragraphe"><p>Diversa eorum aliquando aut per.</p></div>   								
+                                      </div>
+						   </div>
+  						    <!-- bloc 2 -->
+                            <!-- bloc 3 --> 
+                            <div id="bloc3">
+                                  <h2>Bloc 3</h2>
+                                   <div class="sousBloc">
+                                      <h3>Pro evolution soccer</h3>
+                                      <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                      <div class="tx_paragraphe"><p>Verbis non et homines si.</p></div>   
+       							 </div>
+						   </div>
+  						    <!-- bloc 3 -->                    
+                    </div><!-- fin col1 -->
+                    <div id="col2" class="grey2 col pc-4 tab-4 mob-12 ">
+                             <!-- col2 -->
+                             <!-- bloc 1 --> 
+                            <div id="bloc1">
+                                  <h2>Bloc1</h2>
+                                   <div class="sousBloc">
+                                      <h3>playstation4</h3>
+                                      <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                      <div class="tx_paragraphe"><p>populum Romanum invasisse quam iuste. </p></div>      
+                                     
+                                    </div>
+    
+						   </div></br>
+  						    <!-- bloc 1 -->   
+                            <hr>
+                             <!-- bloc 2 --> 
+                            <div id="bloc2">
+                                  <h2>Bloc 2</h2>
+                                      <div class="sousBloc">
+                                      <h3>Metal Gear Solid</h3>
+                                      <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                      <div class="tx_paragraphe"><p>Diversa eorum aliquando aut per.</p></div>   								
+                                      	</div>
+        
+						   </div>
+  						    <!-- bloc 2 -->
+                            <!-- bloc 3 --> 
+							 <hr>
+                            <div id="bloc3">
+                                  <h2>Bloc 3</h2>
+                                   <div class="sousBloc">
+                                      <h3>Pro evolution soccer</h3>
+                                      <span><h4>Jul 25,2015</h4><h5>10:00</h5></span>
+                                      <div class="tx_paragraphe"><p>Verbis non et homines si.</p></div>   
+        							</div>
+						   </div>
+  						    <!-- bloc 3 -->                    
+   					</div>
+                    <!-- fin col2 -->
+                    
+                    
+            <div id="col3" class="grey3 col pc-4 tab-4 mob-12">
+                             <!-- col3 -->
+                             <!-- bloc 1 --> 
+                            <div class="greyb"id="button">
+                                <ul>
+                                <li>
+                                    <a href="#">
+                                      <img id="btn" src="images/button.jpg">
+                                  </a>
+                                  </li><li>
+                                    <a href="#">
+                                      <img id="btn" src="images/button.jpg">
+                                    </a>
+                                    </li><li>
+                                    <a href="#">
+                                      <img id="btn" src="images/button.jpg">
+                                     </a>
+                                    </li>
+                                    
+                                    
+                              </ul> 
+                               
+                                 
+                                     
+                            </div> 
+							
+  						    <!-- fin bloc 1 --> 
+                            <!-- bloc2 /begin --> 
+              <div class="tweet" id="twt">
+                             
+                             <div id="social">
+                            	<div id="tweeter">
+                                  <p><span>Follow Us</span>On Twitter</p>
+                                  
+                                </div>
+                                
+                            </div>
+                           
+                             <div>
+                                              
+              </div>
+                    <!-- fin col3 -->
+             </div> 
+           </div> 
+          
+           </div> <!-- container end -->
+             
+               <div id="sousSlider"></div>
+             <footer class="clearfix"> 
+			
+				<div id="footer-top" class="clearfix">
+					
+						 <div id="col11" class="pc-4 tab-12 mob-12">
+							<h2>Bloc1</h2>
+							<ul>
+                              <li><a href="www.google.fr" title="title1">HOME </a></li><hr>
+							  <li><a href="www.google.fr" title="title2">ABOUT US</a></li><hr>
+                              <li><a href="www.google.fr" title="title3">REFERENCES</a></li><hr>
+                              <li><a href="www.google.fr"title="title4">OUR TEAM</a></li><hr>
+                              <li><a href="www.google.fr"title="title5">NEWS</a></li><hr>
+                             
+                          </ul>
+						 </div>
+						 <div id="col11" class="pc-4 tab-12 mob-12">
+							<h2>Bloc2</h2>
+							<p> txt1</p>
+							<p> txt2</p>
+							<p> txt3</p>
+							<p> txt4</p><hr>
+							<a href="#"><img src="images/ars-grafik-facebook-icon.png"/></a>
+							<a href="#"><img src="images/twitter-4096-black.png"/></a>
+							<a href="#"><img src="images/mail.png"/></a>
+						 </div>
+						 <div id="col11" class="pc-4 tab-12 mob-12">
+							 <h2>Bloc3</h2>
+							 <table>
+								<tr>
+									<td><a href="#"><img src="images/pic.png"/> </a></td>
+									<td><a href="#"><img src="images/pic.png"/></a></td>
+									<td><a href="#"><img src="images/pic.png"/></a></td>
+									<td><a href="#"><img src="images/pic.png"/></a></td>
+								</tr>
+								<tr>
+									<td><a href="#"><img src="images/pic.png"/></a></td>
+									<td><a href="#"><img src="images/pic.png"/></a></td>
+									<td><a href="#"><img src="images/pic.png"/></a></td>
+									<td><a href="#"><img src="images/pic.png"/></a></td>
+								</tr>
+							 </table>
+						 </div>
+			
+				</div>
+
+			</footer>
+  </div> 
+     </div> 
+     <div id="footer-bottom" class="clearfix">
+
+				</div>      
+	</body>
+</html>
